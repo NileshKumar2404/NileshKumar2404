@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nileshkumar2404&label=Profile%20views&color=0e75b6&style=flat" alt="nileshkumar2404" /> </p>
 
-- 🔭 I’m currently working on [Expense Tracker App]([(https://github.com/mukeshkumhar/ExpensAce_App)])
+- 🔭 I’m currently working on [Expense_Tracker_App](https://github.com/mukeshkumhar/ExpensAce_App)
 
 - 🌱 I’m currently learning **Machine Learning, Backend development**
 
