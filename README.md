@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Expense_Tracker_App](https://github.com/mukeshkumhar/ExpensAce_App)
 
-- 🌱 I’m currently learning **Machine Learning, Backend development**
+- 🌱 I’m currently learning **Flutter**
 
 - 📫 How to reach me **nileshkr2404@gmail.com**
 
