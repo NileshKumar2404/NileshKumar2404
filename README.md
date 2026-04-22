@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nilesh Kumar</h1>
-<h3 align="center">A passionate Software developer, Android App and Machine Learning</h3>
+<h3 align="center">A passionate App developer, and develop apps using Flutter and Kotlin</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nileshkumar2404&label=Profile%20views&color=0e75b6&style=flat" alt="nileshkumar2404" /> </p>
 
