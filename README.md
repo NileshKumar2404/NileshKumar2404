@@ -10,6 +10,10 @@ Building scalable, high-performance mobile applications with **Flutter**, **Kotl
   <img src="https://komarev.com/ghpvc/?username=NileshKumar2404&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
 </p>
 
+<div align="center">
+  <img src="./assets/space-shooter.gif" width="850" alt="Space Shooter Animation">
+</div>
+
 </div>
 
 ---
